@@ -61,7 +61,7 @@ The dataset contains the following key variables:
 
 - 1. Clone the repository
      
-     git clone https://github.com/lilalaser/Python-LSTM-Solar-Power-Generation.git
+     git clone https://github.com/lilalaser/Python-LSTM-Solar-Power-Generation
 
 - 2. Move into the project directory
      
